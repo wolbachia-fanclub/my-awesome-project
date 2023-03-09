@@ -1,3 +1,5 @@
 # my-awesome-project
 
 This awesome project is created to experiment git notions like clone, push and pull
+
+3.modification du readme sur github
